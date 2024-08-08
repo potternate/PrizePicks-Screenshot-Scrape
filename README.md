@@ -38,9 +38,10 @@ python extract.py
 •	call_openai_api(text): Sends the extracted text to the OpenAI API to extract structured betting details.
 •	parse_extracted_details(extracted_details): Parses the JSON response from the OpenAI API. Attempts to correct JSON formatting issues if they occur.
 •	save_to_json(all_details, json_path): Saves the extracted betting details to a JSON file.
-•	process_images_in_folder(images_folder, output_json_path): Processes all images in the specified folder, extracts details, and saves them to the output JSON file.
+• process_images_in_folder(images_folder, output_json_path): Processes all images in the specified folder, extracts details, and saves them to the output JSON file.
 
 ## Troubleshooting
+
 •	Ensure Tesseract-OCR is correctly installed and accessible in your system PATH.
-•	Verify your OpenAI API key is valid and has the necessary permissions.
+• Verify your OpenAI API key is valid and has the necessary permissions.
 •	Check for any errors in the console output for debugging purposes.
