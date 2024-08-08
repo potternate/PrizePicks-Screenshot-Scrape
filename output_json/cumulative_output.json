@@ -1,0 +1,70 @@
+[
+    {
+        "Bet Status": "PAYOUTS A IN PROGRESS",
+        "Amount wagered": 5.0,
+        "Amount won": 25.0,
+        "Players": [
+            {
+                "player1": "Franz Wagner",
+                "metric": "PTS+REBS+ASTS",
+                "over_under": "OVER",
+                "line": "27.0"
+            },
+            {
+                "player2": "Breanna Stewart",
+                "metric": "REBOUNDS",
+                "over_under": "OVER",
+                "line": "7.5"
+            },
+            {
+                "player3": "LeBron James",
+                "metric": "REBOUNDS",
+                "over_under": "UNDER",
+                "line": "6.0"
+            },
+            {
+                "player4": "Kevin Durant",
+                "metric": "REBOUNDS",
+                "over_under": "OVER",
+                "line": "3.5"
+            }
+        ]
+    },
+    {
+        "Bet Status": "Won",
+        "Amount wagered": 20.0,
+        "Amount won": 15.0,
+        "Players": [
+            {
+                "player1": "Nikola Vucevic",
+                "metric": "POINTS",
+                "over_under": "O25",
+                "line": "25"
+            },
+            {
+                "player2": "Jaime Jaquez Jr.",
+                "metric": "REBOUNDS",
+                "over_under": "O25",
+                "line": "25"
+            },
+            {
+                "player3": "Ayo Dosunmu",
+                "metric": "ASSISTS",
+                "over_under": "MORE",
+                "line": "4.5"
+            },
+            {
+                "player4": "Nikola Jovic",
+                "metric": "POINTS",
+                "over_under": "MORE",
+                "line": "6.0"
+            },
+            {
+                "player5": "Bam Adebayo",
+                "metric": "REBOUNDS",
+                "over_under": "LESS",
+                "line": "5.0"
+            }
+        ]
+    }
+]
